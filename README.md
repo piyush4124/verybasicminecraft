@@ -4,5 +4,5 @@
 2) open terminal in the project folder
 
 3) on your terminal paste the following commands:
-     pip install ursina
-     python app.py
+     1) pip install ursina
+     2) python app.py
