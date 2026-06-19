@@ -1,5 +1,8 @@
 # how to run/play
 
-1) pip install ursina
+1) download the project
+2) open terminal in the project folder
 
-2) python app.py
+3) on your terminal paste the following commands:
+     pip install ursina
+     python app.py
