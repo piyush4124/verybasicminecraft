@@ -1,3 +1,5 @@
 # how to run/play
-pip install ursina
-python app.pyb
+
+1) pip install ursina
+
+2) python app.py
